@@ -21,6 +21,7 @@ h5{
     font-size: 20px;
     font-weight: 500;
     margin-bottom: 2%;
+    color: crimson;
 }
 p{
     font-weight: 300;
@@ -55,4 +56,24 @@ p{
 }
 #content-2{
     margin-top: 5%;
+}
+.top-exp{
+    padding-left: 5%;
+    font-weight: 400;
+}
+.experience{
+    width: 50%;
+    padding-left: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 40px gray;
+
+}
+#front-end{
+    padding: 2%;
+}
+#back-end{
+    padding: 2%;
 }
