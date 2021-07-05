@@ -73,7 +73,13 @@ p{
 }
 #front-end{
     padding: 2%;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, violet);
+    border-image-slice: 1;
 }
 #back-end{
     padding: 2%;
+    border-left: 7px solid;
+    border-image: linear-gradient(violet,blue);
+    border-image-slice: 1;
 }
